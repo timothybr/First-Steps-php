@@ -6,10 +6,11 @@ $zahl2 = 9.65;
 // Mehzeilige Kommentare mit /* xy */
 
 echo $zahl1 + $zahl2 . '<br>';
-echo $zahl1 - $zahl2;
-echo $zahl1 * $zahl2;
-echo $zahl1 / $zahl2;
-echo $zahl1 % $zahl2;
+echo $zahl1 - $zahl2 . '<br>';
+echo $zahl1 * $zahl2 . '<br>';
+echo $zahl1 / $zahl2 . '<br>';
+echo $zahl1 % $zahl2 . '<br>';
+// Punkt um zu sagen, dass Zeilenumbruch "zum Ergebnis" hinzugefügt wird
 
 
 ?>
